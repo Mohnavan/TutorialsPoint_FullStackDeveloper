@@ -1,3 +1,0 @@
-Hi
-
-This is a test file to check the commit status in git from local system.
